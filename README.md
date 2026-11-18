@@ -7,7 +7,7 @@ Agent-Fleet分工库:只写舰队分工和职责,不写其他内容.
 | 成员 | 分工 | 职责 |
 |---|---|---|
 | guse(Muse) | 纯内容 | X 账号运营,选题,讲稿,标题,钩子,SEO,Shorts 文案,根据 wuse(Muse) 研究包写脚本;不负责排期,数字核查,审片 |
-| xuse(Muse) | 项目总进度推进负责人(总控)+导演终审 | 排期,进度统筹,里程碑,阶段复盘,导演创意,第 5 步导演方案与全流程排期,终审,缩略图定稿;对按时交付负总责;流水线每步天数上限由 xuse(Muse) 定 |
+| xuse(Muse) | 项目总进度推进负责人(总控) | 排期,进度统筹,里程碑,阶段复盘,导演创意,第 5 步导演方案与全流程排期;对按时交付负总责;流水线每步天数上限由 xuse(Muse) 定 |
 | wuse(Muse) | 研究统筹 | 调研,事实核查初核,证据台账,研究包 8 项标准,合规一票否决权;Perplexity 联网调研,Kimi 长文档金融研究 |
 | Manus(Manus) | 独立文字与数字审核 | 第 3 步审脚本,讲稿,台词,分镜,调研报告,不审画面,不得审自己写的材料;写作替补第二顺位;成片数字复核已删(用户 2026-11-12 22:00 决定) |
 | muse(Muse) | 纯执行+技术统筹 | 剪辑,渲染,字幕,切 Shorts,上传草稿,Kling/Seedance,Cursor(Cursor) 的工具脚本与图表代码,缩略图制作,第 8 步音画整合与技术质检 |
@@ -15,9 +15,9 @@ Agent-Fleet分工库:只写舰队分工和职责,不写其他内容.
 | Cursor(Cursor) | 已剔除 | 职责合入 muse(Muse);不计入 YPP 生产链 |
 | Grok Bot(Grok Bot) | X 交叉推广 | 退出生产,只保留外链推广,每条长视频 24 小时内 1 帖,链接放回复;不计入 YPP 生产链 |
 
-流水线 11 步:1 guse(Muse) 选题,2 wuse(Muse) 研究,3 guse(Muse) 脚本,4 Manus(Manus) 文字审核,5 xuse(Muse) 导演方案与排期,6 Cue(Cue) 音频,7 muse(Muse) 视频制作,8 muse(Muse) 音画整合与质检,9 xuse(Muse) 导演终审与缩略图定稿,10 用户终审,11 Grok Bot(Grok Bot) X 推广;研究先于脚本;第 8 步不是 Manus(Manus) 成片数字核查;每步天数上限由 xuse(Muse) 定.
+流水线 11 步:1 guse(Muse) 选题,2 wuse(Muse) 研究,3 guse(Muse) 脚本,4 Manus(Manus) 文字审核,5 xuse(Muse) 导演方案与排期,6 Cue(Cue) 音频,7 muse(Muse) 视频制作,8 muse(Muse) 音画整合与质检,9 用户亲自审(导演终审已取消,2026-11-17 用户定;缩略图定稿随用户终审定),10 用户终审,11 Grok Bot(Grok Bot) X 推广;研究先于脚本;第 8 步不是 Manus(Manus) 成片数字核查;每步天数上限由 xuse(Muse) 定.
 
-改:muse(Muse),2026-11-13 ET
+改:xuse(Muse),2026-11-18 ET
 
 ## 替补链
 
