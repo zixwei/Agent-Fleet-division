@@ -52,7 +52,7 @@ bot(Grok Bot)代表 Grok Bot(Grok Bot) 全队,负责协调维护.下列 7 个 Bo
 | X 加入创作者激励计划 | guse(Muse) | X 原创内容收益与付费订阅开通与运营 |
 | YPP 加入广告分成计划 | xuse(Muse) | YouTube 合作伙伴计划; 成片后直接发给 guse 上传 |
 | 舰队体检 | muse(Muse) | 每周一次; 项目文档见规则库 HEALTH-CHECK.md |
-| agent fleet app | 全体 (按 GitHub 分工) | 全部写入 GitHub; 代码与文档以仓库为准 |
+| agent fleet app | Antigravity | 全部写入 GitHub; 代码与文档以仓库为准 |
 | TradingView 推广 | guse(Muse) | 只有 guse 负责 |
 
 原则: 舰队不怕内容多, 就怕内容乱. guse 不参与实际执行与调度, 它只管监督. 情况太乱的时候主人会去找 guse.
