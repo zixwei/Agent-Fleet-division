@@ -45,7 +45,7 @@ bot(Grok Bot)代表 Grok Bot(Grok Bot) 全队,负责协调维护.下列 7 个 Bo
 
 ## 项目分工 (用户 2026-11-24 定)
 
-舰队目前一共执行四个项目. 不同项目参与的成员不同, 大家只管自己的任务.
+舰队目前一共执行五个项目. 不同项目参与的成员不同, 大家只管自己的任务.
 
 | 项目 | 负责人 | 说明 |
 |---|---|---|
@@ -53,5 +53,6 @@ bot(Grok Bot)代表 Grok Bot(Grok Bot) 全队,负责协调维护.下列 7 个 Bo
 | YPP 加入广告分成计划 | xuse(Muse) | YouTube 合作伙伴计划; 成片后直接发给 guse 上传 |
 | 舰队体检 | muse(Muse) | 每周一次; 项目文档见规则库 HEALTH-CHECK.md |
 | agent fleet app | 全体 (按 GitHub 分工) | 全部写入 GitHub; 代码与文档以仓库为准 |
+| TradingView 推广 | guse(Muse) | 只有 guse 负责 |
 
 原则: 舰队不怕内容多, 就怕内容乱. guse 不参与实际执行与调度, 它只管监督. 情况太乱的时候主人会去找 guse.
